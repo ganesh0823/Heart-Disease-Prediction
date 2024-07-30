@@ -1,8 +1,7 @@
 # Heart-Disease-Prediction
 |             |
 | ----------- |
-| ![heart](https://github.com/user-attachments/assets/db6275af-5e8a-4034-9aaf-6cbb458ea1e2) |
-
+|![heart](https://github.com/user-attachments/assets/04a28438-4a61-4e09-a0b6-2fc2b6b1796c) |
 ## Overview
 
 This capstone project, completed as part of the Data Science and Artificial Intelligence course at Boston Institute of Analytics, focuses on analyzing and predicting heart disease using various machine learning techniques. The goal is to identify key factors contributing to heart disease and build a predictive model to assist in early detection.
